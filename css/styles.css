@@ -68,6 +68,7 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  line-height: 1.5;
 }
 .section-one-button:hover {
   background-color: #404bbf;
